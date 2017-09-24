@@ -1,2 +1,1 @@
-# treehouse-rsvp-app
-Treehouse React RSVP App
+RSVP Web App using React
